@@ -1,0 +1,9 @@
+boards:
+  - name: eyelash_sofle_left
+    vendor: panda
+    socs:
+      - name: nrf52840
+  - name: eyelash_sofle_right
+    vendor: panda
+    socs:
+      - name: nrf52840
