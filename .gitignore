@@ -1,5 +1,8 @@
 build/
+build_output/
 zmk/
 modules/
 tools/
+zephyr/
+bootloader/
 .west/
