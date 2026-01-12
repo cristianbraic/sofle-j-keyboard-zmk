@@ -119,7 +119,7 @@ layers:
   - F10
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:skip-previous$$
-  - '&RET'
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
