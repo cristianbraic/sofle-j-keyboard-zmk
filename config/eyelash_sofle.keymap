@@ -71,7 +71,7 @@
 &kp LSHFT   &kp N1       &kp N2            &kp N3            &kp N4       &kp N5                   &mmv MOVE_DOWN   &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &trans
 &trans      &kp N6       &kp N7            &kp N8            &kp N9       &kp N0                   &mmv MOVE_LEFT   &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp F11   &trans
 &trans      &kp F1       &kp F2            &kp F3            &kp F4       &kp F5                   &mmv MOVE_RIGHT  &kp F6    &kp F7    &kp F8    &kp F9    &kp F10   &trans
-&kp C_PREV  &RET         &trans            &trans            &trans       &trans                   &mkp LCLK        &trans    &kp F12   &trans    &trans    &trans
+&kp C_PREV  &kp RET      &trans            &trans            &trans       &trans                   &mkp LCLK        &trans    &kp F12   &trans    &trans    &trans
             >;
 
             display-name = "layer1";
